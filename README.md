@@ -7,6 +7,7 @@
   <li>📚 Solved over <b>300+ DSA questions</b> on the Acciojob platform, Leetcode, and GeeksforGeeks.</li>
   <li>🧭 I love exploring and working both in frontend and backend. </li>
   <li>📱 Built multiple <b>Frontend</b> and <b>MERN stack</b> projects.</li>
+  <li>👔<b>MERN STACK</b> intern at <b>GETA AI Labs Pvt LTD</b></li>
   
 </ul>
 
